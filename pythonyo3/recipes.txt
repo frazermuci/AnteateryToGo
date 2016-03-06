@@ -1,0 +1,4 @@
+('green eggs and ham', ['green eggs', 'green ham'], ['cook green eggs', 'cook green ham', 'combine'], 2, 10, 2, (0, 0, 0))
+('green eggs and ham', ['green eggs', 'green ham'], ['cook green eggs', 'cook green ham', 'combine'], 4, 10, 4, (0, 0, 0))
+('nachos', ['tortilla chips', 'cheese'], ['put cheese on chips', 'cook', 'serve'], 3, 2, 3, (0, 0, 0))
+('toast', ['toast', 'butter'], ['spread butter on toast'], 1, 2, 1, (0, 0, 0))

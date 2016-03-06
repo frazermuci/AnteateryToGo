@@ -38,7 +38,8 @@ class FileManager:
                 else:
                     f.write(str(tup))
                     check=True
-                
+
+        check=True
         with open("users.txt","w") as file:
             self.userManager.userList.sort()
             for u in self.userManager.userList:
